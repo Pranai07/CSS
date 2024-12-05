@@ -1,0 +1,29 @@
+.container{
+    height: 550px;
+    border: 2px solid black;
+    position: relative;
+}
+.a,.b,.c,.d{
+    width: 350px;
+    /*border: 2px solid black;*/
+    display: inline-block;
+    margin: 15px;
+    align-items: top;
+}
+.e,.f,.g,.h{
+    width: 350px;
+    /*border: 2px solid black;*/
+    display: inline-block;
+    margin: 15px;
+    align-items: top;
+    position: relative;;
+}
+img{
+    width: 100%;
+}
+p{
+    background-color: lightblue;
+    width: 100px;
+    position: absolute;
+    top: 0%
+}
