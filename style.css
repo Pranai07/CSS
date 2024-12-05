@@ -9,6 +9,7 @@
     display: inline-block;
     margin: 15px;
     align-items: top;
+    position: relative;
 }
 .e,.f,.g,.h{
     width: 350px;
@@ -16,7 +17,7 @@
     display: inline-block;
     margin: 15px;
     align-items: top;
-    position: relative;;
+    position: relative;
 }
 img{
     width: 100%;
