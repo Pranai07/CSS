@@ -26,7 +26,10 @@ img{
 }
 p{
     background-color: black;
+<<<<<<< HEAD
     color: antiquewhite;
+=======
+>>>>>>> ce581858f915f7d3257401708fe67e89eab69442
     width: 100px;
     position: absolute;
     top: 0px;
