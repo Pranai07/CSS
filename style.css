@@ -9,6 +9,7 @@
     display: inline-block;
     margin: 15px;
     align-items: top;
+    
 }
 .e,.f,.g,.h{
     width: 350px;
@@ -20,10 +21,15 @@
 }
 img{
     width: 100%;
+    margin: 0px;
+    padding: 0px;
 }
 p{
-    background-color: lightblue;
+    background-color: black;
+    color: antiquewhite;
     width: 100px;
     position: absolute;
-    top: 0%
+    top: 0px;
+    font-weight: 500;
+    
 }
