@@ -1,0 +1,29 @@
+article{
+    height: 600px;
+    width: 600px;
+    border: 2px solid black;
+    position: relative;
+}
+section{
+    height: 400px;
+    width: 300px;
+    border: 2px solid red;
+    margin: 10px;
+    position: relative;
+}
+div{
+    height: 300px;
+    width: 200px;
+    border: 2px solid green;
+    margin: 10px;
+    position: relative;
+}
+p{
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    left: 0px;
+    bottom: 0px;
+    position: absolute;
+}
